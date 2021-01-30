@@ -35,4 +35,5 @@ echo "${FREE_SPACE}" | sort -n
 
 echo "All files:"
 echo "${FILES}" | tee ~/gdrive.lst
+
 )
